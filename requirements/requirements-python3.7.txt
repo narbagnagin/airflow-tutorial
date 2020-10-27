@@ -91,7 +91,7 @@ colorama==0.4.3
 colorlog==4.0.2
 coverage==5.1
 croniter==0.3.31
-cryptography==2.9.2
+cryptography==3.2
 curlify==2.2.1
 cx-Oracle==7.3.0
 dask==2.16.0
